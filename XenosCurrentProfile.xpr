@@ -1,0 +1,20 @@
+<XenosConfig>
+	<imagePath>C:\Program Files (x86)\MTA San Andreas 1.6\server\mods\deathmatch\deathmatch.dll</imagePath>
+	<manualMapFlags>0</manualMapFlags>
+	<procName>C:\Games\GT4_S4N_4NDR34S\gta_sa.exe</procName>
+	<hijack>0</hijack>
+	<unlink>0</unlink>
+	<erasePE>0</erasePE>
+	<close>1</close>
+	<krnHandle>0</krnHandle>
+	<injIndef>0</injIndef>
+	<processMode>2</processMode>
+	<injectMode>0</injectMode>
+	<delay>2000</delay>
+	<period>0</period>
+	<skip>0</skip>
+	<procCmdLine/>
+	<initRoutine/>
+	<initArgs/>
+</XenosConfig>
+
